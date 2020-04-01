@@ -10,3 +10,12 @@ Youtube: https://www.youtube.com/watch?v=wgQ3rHFTM4E
 
 https://12factor.net/
 
+
+## OSI Model 
+
+youtube: https://www.youtube.com/watch?v=vv4y_uOneC0
+
+
+##ACID 
+
+youtube: https://www.youtube.com/watch?v=VRm2UMsFVz0
