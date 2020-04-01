@@ -31,3 +31,8 @@ https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
 
 https://assets.azul.com/files/Whats-inside-a-JVM-webinar-presentation.pdf
 
+
+## JAVA Stream & Lambda
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+https://stackify.com/streams-guide-java-8/
