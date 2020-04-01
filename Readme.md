@@ -16,6 +16,6 @@ https://12factor.net/
 youtube: https://www.youtube.com/watch?v=vv4y_uOneC0
 
 
-##ACID 
+## ACID 
 
 youtube: https://www.youtube.com/watch?v=VRm2UMsFVz0
