@@ -36,3 +36,9 @@ https://assets.azul.com/files/Whats-inside-a-JVM-webinar-presentation.pdf
 
 https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 https://stackify.com/streams-guide-java-8/
+
+
+## Spring webflux
+
+https://www.baeldung.com/spring-webflux
+https://www.youtube.com/user/dilipthelip1/videos
