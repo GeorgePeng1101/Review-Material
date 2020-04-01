@@ -24,6 +24,7 @@ youtube: https://www.youtube.com/watch?v=VRm2UMsFVz0
 ## JAVA Heap & Stack
 
 https://www.baeldung.com/java-stack-heap
+https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
 
 
 ## JAVA JVM
